@@ -11,6 +11,21 @@ A secure and feature-rich personal journal app designed to store, search, and ex
 - Search and Filter: Find journal entries by title, category, or date range.
 - Export Functionality: Save journal entries as a `.txt` or `.csv` file.
 - Timestamp Accuracy: Localized timestamp is based on the user’s timezone.
+## Screenshots
+### Login/Register Screen
+![Login/Register Screen](PJA-login_register.png)
+### Entry Screen
+![Entry Screen](PJA-entryscreen.png)
+### View Entries
+![View Entries](PJA-viewentries.png)
+### Open Entries
+![Open Entries](PJA-openentries.png)
+### Search Entries
+![Search Entries](PJA-searchentries.png)
+### Export Entries
+![Export Entries](PJA-exportentries.png)
+### DB Browser for SQLite
+![DB Browser for SQLite](PJA-DB_Browser_SQLite.png)
 ## Installation
 1. Clone this repository:
    ```bash
