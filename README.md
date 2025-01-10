@@ -1,4 +1,7 @@
 # Personal Journal Application
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/DeAsiaMcQueen/personal-journal-app)
 A secure and feature-rich personal journal app designed to store, search, and export encrypted entries with user authentication.
 ## Features
 - Authentication: Login/Registration system for user accounts.
